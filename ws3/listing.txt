@@ -1,0 +1,3 @@
+total 0
+-rw-rw-r-- 1 ishigaki-cs16 ishigaki-cs16 0 Jun 17 09:43 listing.txt
+Wed Jun 17 09:45:47 AM PDT 2026
