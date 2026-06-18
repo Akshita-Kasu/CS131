@@ -11,4 +11,3 @@ T10: cp -R data backup
 T11: mv data/readme.txt data/README.md
 T12: rm -Ri backup/data
 T13: git add answers.txt, git commit -m linux basics challenge
-T14: git clone https://github.com/Akshita-Kasu/CS131.git
